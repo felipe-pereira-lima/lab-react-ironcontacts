@@ -1,0 +1,12 @@
+img {
+  width: 2em;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: baseline;
+  align-content: flex-start;
+}
